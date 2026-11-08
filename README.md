@@ -1,6 +1,8 @@
 # Sword-of-Mana-Mods
 Fixes and Mods for Sword of Mana
 
+These patches fix some of the issues with the game. These are .BPS patches so you cannot use LunarIPS to apply them, you will need to use something like Rom Patcher JS. The patch will increase your rom size from 16MB to 32MB due to the extra sprites and code needed for these mods.
+
 
 **som_perf_plus2_pathing.bps**
 

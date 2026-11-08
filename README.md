@@ -11,7 +11,7 @@ This patch also add pathfinding to the NPC courtesy of Gentlefox for his work on
 I also added some behavior changes to the NPC. I increased the run speed so the npc will keep up with you and eliminated the "Wander" code in the NPC behavior since it is no longer needed for navigation. I changed the leash code to keep it closer to your character to prevent them from getting stuck and lost. I added 2 sliders you can modify 
 
 1. Chase Slider = Changes the enemy chase range. Useful for range NPCs so they don't endlessly get stuck casting spells while your running away.
-2. Distance Slider = How far the NPC stands from you. for Range NPC it keeps them from enemy melee range when you are attacking. For Melee NPCs it'll keep them closer to you to act more like tanks/bodyguards
+2. Distance Slider = How far the NPC stands from you. For range NPCs, it keeps them from enemy melee range when you are attacking. For Melee NPCs it'll keep them closer to you to act more like tanks/bodyguards
 
 
 **som_pathing.bps**

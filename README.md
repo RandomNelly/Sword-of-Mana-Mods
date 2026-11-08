@@ -2,7 +2,7 @@
 Fixes and Mods for Sword of Mana
 
 
-**som_perf_plus2_pathing.bps **
+**som_perf_plus2_pathing.bps**
 
 This patch adds 30%+ performance patch that stops most slowdowns to keep the game at 60fps, it uses some extra iwram along with some changes to the way sprites are drawn in return for better frame rates. It has some failsafe check built in so crashes are unlikely, I have not encountered any crashes yet and the FPS remains close to 60FPS in most areas with heavy sprites on screen. Further improvement is possible but so far this seems adequate.
 
